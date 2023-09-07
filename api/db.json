@@ -1,0 +1,39 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "content": "Angular, Google'daki Angular Ekibi, bireyler ve şirketler topluluğu tarafından yönetilen TypeScript tabanlı özgür ve açık kaynaklı bir web uygulaması çerçevesidir.Angular, AngularJS'yi oluşturan aynı ekibin eksiksiz bir yeniden yazma işlemidir.",
+      "title": "Angular",
+      "price": 78.9
+    },
+    {
+      "id": 2,
+      "content": "Twitter Bootstrap açık kaynak kodlu, web sayfaları veya uygulamaları geliştirmek için kullanılabilecek araçlar bütünü ve önyüz çatısı. Bootstrap, web sayfaları veya uygulamalarında kullanılabilecek, HTML ve CSS tabanlı tasarım şablonlarını içerir.",
+      "title": "Bootstrap",
+      "price": 66.5
+    },
+    {
+      "id": 3,
+      "content": "AT&T Bell laboratuvarlarında, Ken Thompson ve Dennis Ritchie tarafından UNIX İşletim Sistemi'ni geliştirebilmek amacıyla B dilinden türetilmiş yapısal bir programlama dilidir. Geliştirilme tarihi 1972 olmasına rağmen yaygınlaşması",
+      "title": "C",
+      "price": 99.5
+    },
+    {
+      "id": 4,
+      "content": "React kullanıcı arayüzü oluşturmaya yarayan açık kaynak kodlu bir javascript kütüphanesidir. Facebook önderliğinde bir geliştirici grubu tarafından geliştirilmekte olan React, Model-View-Controller prensibine uygun olarak oluşturulmuştur.",
+      "title": "React",
+      "price": 99.99
+    },
+    {
+      "id": 5,
+      "content": "İngilizceden çevrilmiştir-Ön uç web geliştirme, bir web sitesinin grafik kullanıcı arayüzünün HTML, CSS ve JavaScript kullanılarak geliştirilmesidir, böylece kullanıcılar bu web sitesini görüntüleyebilir ve etkileşime girebilir. ",
+      "title": "Front-End",
+      "price": 105.5
+    },{
+        "id": 6,
+        "content": "TypeScript özgür ve açık kaynak kodlu programlama dili. Microsoft tarafından geliştirilmekte ve desteklenmekte olan TypeScript; bünyesinde barındırdığı derleyici sayesinde, yazılan kodu JavaScript koduna çevirir.",
+        "title": "TypeScript",
+        "price": 45.5
+      }
+  ]
+}
